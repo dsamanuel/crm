@@ -122,7 +122,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'cnms.wsgi.application'
 
 
-# Database
+# Databaseddf
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 
